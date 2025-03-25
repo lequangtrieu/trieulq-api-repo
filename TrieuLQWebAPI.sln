@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrieuLQWebAPI", "TrieuLQWebAPI\TrieuLQWebAPI.csproj", "{5D213A00-CC94-47B7-B0E9-3A49795A6F25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D213A00-CC94-47B7-B0E9-3A49795A6F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D213A00-CC94-47B7-B0E9-3A49795A6F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D213A00-CC94-47B7-B0E9-3A49795A6F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D213A00-CC94-47B7-B0E9-3A49795A6F25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A9CB66B-CFE2-4926-A48A-54BE450FC72D}
+	EndGlobalSection
+EndGlobal
